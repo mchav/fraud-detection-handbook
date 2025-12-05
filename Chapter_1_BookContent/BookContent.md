@@ -9,7 +9,7 @@
 * Chapter 5: Model selection
 * Chapter 6: Imbalanced learning
 * Chapter 7: Deep learning
-* Chapter 8: Interpretability*
+* Chapter 8: Interpretability
 
 (*): Not yet published. 
 
